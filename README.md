@@ -13,17 +13,19 @@ Finally, an **optional bonus** with the **California Housing dataset** is includ
 
 ---
 
-## 🔹 Repository Structure
-datafun-07-ml/
-│
-├── data/ # Dataset(s)
-│ └── ave_hi_nyc_jan_1895-2018.csv
-│
-├── abdellah_boudlal_ml.ipynb # Main Jupyter notebook (Parts 1–5)
-├── requirements.txt # Project dependencies
-├── .gitignore # Ignore venv, cache, etc.
-└── README.md # Project documentation
----
+🔹 Repository Structure
+
+
+    datafun-07-ml/
+    │── data/                
+    │   ├── ave_hi_nyc_jan_1895-2018.csv      # dataset 
+    │  
+    │── abdellah_boudlal_ml.ipynb # Main Jupyter notebook (Parts 1–5)
+    │── requirements.txt # Project dependencies
+    │── .gitignore # Ignore venv, cache, etc.
+    │── banner.png
+    │── Object_Oriented_Programming.ipynb
+    │── README.md # Project documentation
 
 ## 🔹 Requirements
 Python 3.10+ recommended.  
@@ -77,7 +79,7 @@ Dependencies
 
 Clone this repository:
 
-git clone https://github.com/yourusername/datafun-07-ml.git
+git clone https://github.com/aboudlal/datafun-07-ml.git
 cd datafun-07-ml
 
 Create and activate a virtual environment:
