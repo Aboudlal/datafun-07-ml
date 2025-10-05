@@ -23,7 +23,6 @@ datafun-07-ml/
 ├── requirements.txt # Project dependencies
 ├── .gitignore # Ignore venv, cache, etc.
 └── README.md # Project documentation
-
 ---
 
 ## 🔹 Requirements
